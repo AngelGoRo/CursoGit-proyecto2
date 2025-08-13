@@ -1,0 +1,3 @@
+# Git ignore para no incluir archivos en los commit
+*.vcxproj
+/ignorar/
